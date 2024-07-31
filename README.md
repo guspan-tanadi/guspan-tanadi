@@ -1,9 +1,10 @@
 ### Hi 👋
 Welcome.
-
 Contributing here as well [Wikimedia](http://xtools.wmcloud.org/globalcontribs/Guspan%20Tanadi).
 
+[![](https://ossrank.com/widget/763980)](https://ossrank.com/c/763980-guspan-tanadi)
 [![@guspan-tanadi Astro contributions](https://astro.badg.es/v2/contributor/guspan-tanadi.svg)](https://astro.badg.es/contributor/guspan-tanadi/)
+
 <!--
 **guspan-tanadi/guspan-tanadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

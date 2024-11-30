@@ -7,7 +7,7 @@ Contributing here as well [Wikimedia](http://xtools.wmcloud.org/globalcontribs/G
 
 [![An image of @guspantanadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/guspantanadi)](https://holopin.io/@guspantanadi)
 
-Become [baseline reference](https://arxiv.org/html/2311.16447#S12.p1) simply by forking a [repo](https://github.com/guspan-tanadi/XNetfromYanfeng-Zhou).
+Become [baseline reference](https://arxiv.org/html/2311.16447#S12.p2) simply by [forking](https://github.com/github/docs/blob/main/content/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks.md#about-forks) a [repo](https://github.com/guspan-tanadi/XNetfromYanfeng-Zhou).
 
 <!--
 **guspan-tanadi/guspan-tanadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
